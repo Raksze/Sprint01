@@ -20,7 +20,7 @@ body
     align-items: center;
     justify-self: center;
     background-image: linear-gradient(90deg, rgb(232, 45, 95), rgb(71, 11, 71));
-    width: 40vw;
+    width: 24vw;
     height: 75vh;
     border-style: solid;
     border-radius: 5vh;
@@ -40,7 +40,7 @@ body
 .video{
     margin-top: 4vh;
     display: flex;
-    width: 33vw;
+    width: 20vw;
     height: 58 vh;
     border: white;
     border-width: 0.5vw;
