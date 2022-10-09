@@ -25,7 +25,7 @@ body
     border-style: solid;
     border-radius: 5vh;
     border-color: black;
-    border-width: 0.5vw;
+    border-width: 0.25vw;
 
 }
 
@@ -43,7 +43,7 @@ body
     width: 20vw;
     height: 58 vh;
     border: white;
-    border-width: 0.5vw;
+    border-width: 0.25vw;
     border-bottom-left-radius: 5vh;
     border-bottom-right-radius: 5vh;
     border-style: solid;
@@ -60,5 +60,5 @@ body
     color: white;
     margin-top: 2vh;
     background-color: rgb(71, 11, 71);
-    width: 20vw;
+    width: 100vw;
 }
